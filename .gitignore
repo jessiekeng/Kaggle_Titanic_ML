@@ -1,0 +1,9 @@
+# Ignore the data folder (it's better to keep it local)
+titanic/
+data/
+
+# Ignore the submission results
+submission.csv
+
+# Ignore Mac system files
+.DS_Store
